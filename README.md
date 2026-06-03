@@ -93,7 +93,7 @@ I like turning datasets and ideas into working experiments, prototypes, and appl
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-uzmez&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=furkan-uzmez&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
